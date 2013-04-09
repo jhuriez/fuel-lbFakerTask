@@ -1,4 +1,4 @@
-<h1>Fuel LbFakerTask</h1>
+<h1>Fuel-LbFakerTask</h1>
 
 This module is just a task for use the package Fuel LbFaker with oil
 
